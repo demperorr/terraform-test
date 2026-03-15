@@ -73,7 +73,7 @@ Update and Install Jenkins
 
 Add required dependencies for the jenkins package
 
-    sudo apt install fontconfig openjdk-17-jre -y
+    sudo apt install fontconfig openjdk-21-jre -y
 
 Verify Java Installation 
 
