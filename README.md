@@ -36,7 +36,6 @@ f)	Adjust Iam role trust relationship to enable the role can be assumed by itsel
     ]
     }
 
-
 g)	Install **[AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)** on Server and and configure Server without credentials **(no Access and Secret Keys)**
 
     sudo snap install aws-cli --classic
